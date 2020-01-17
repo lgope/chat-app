@@ -1,0 +1,28 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "node chat app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lakshmangope/node-chat-app.git"
+  },
+  "author": "Lakshman Gope",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lakshmangope/node-chat-app/issues"
+  },
+  "homepage": "https://github.com/Lakshmangope/node-chat-app#readme",
+  "dependencies": {
+    "bad-words": "^3.0.2",
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
