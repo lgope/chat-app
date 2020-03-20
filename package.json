@@ -1,7 +1,7 @@
 {
   "name": "chat-app",
   "version": "1.0.0",
-  "description": "node chat app",
+  "description": "chat app",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lakshmangope/node-chat-app.git"
+    "url": "git+https://github.com/lgope/chat-app.git"
   },
-  "author": "Lakshman Gope",
+  "author": "Lakshman",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Lakshmangope/node-chat-app/issues"
+    "url": "https://github.com/lgope/chat-app/issues"
   },
-  "homepage": "https://github.com/Lakshmangope/node-chat-app#readme",
+  "homepage": "https://github.com/lgope/chat-app#readme",
   "dependencies": {
     "bad-words": "^3.0.2",
     "express": "^4.17.1",
